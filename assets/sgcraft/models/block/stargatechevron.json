@@ -1,0 +1,11 @@
+{
+    "parent": "block/block",
+    "textures": {
+        "up": "sgcraft:blocks/stargateblock",
+        "down": "sgcraft:blocks/stargateblock",
+        "north": "sgcraft:blocks/stargatechevron",
+        "south": "sgcraft:blocks/stargatechevron",
+        "east": "sgcraft:blocks/stargatechevron",
+        "west": "sgcraft:blocks/stargatechevron",
+    }
+}

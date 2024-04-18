@@ -1,0 +1,17 @@
+sgcraft.gui.pdd.label.dialing=Dialing...
+sgcraft.gui.pdd.label.disconnecting=Disconnecting...
+sgcraft.gui.pdd.label.connected=Connected
+sgcraft.gui.pdd.label.error=Error
+sgcraft.gui.pdd.label.establishing=Establishing...
+
+death.attack.sgcraft:transient=%1$s was torn apart by an Event Horizon
+death.attack.sgcraft:iris=%1$s got splattered against a Stargate Iris
+message.sgcraft:disconnectFirst=Disconnect Stargate before breaking
+message.sgcraft:irisAtDestination=Destination blocked by Iris
+message.sgcraft:selfOutOfRange=Coordinates of dialing Stargate are out of range
+message.sgcraft:targetOutOfRange=Coordinates out of Stargate range
+message.sgcraft:unknownAddress=Unable to find Stargate at address %s
+message.sgcraft:selfLackChevrons=Stargate has insufficient Chevrons to dial %s
+message.sgcraft:targetLackChevrons=Destination Stargate has insufficient Chevrons
+message.sgcraft:malformedAddress=Malformed Stargate address
+message.sgcraft:dimensionTooFar=Dimension not reachable by Stargate

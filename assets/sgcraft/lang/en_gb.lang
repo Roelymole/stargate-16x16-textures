@@ -1,0 +1,4 @@
+message.sgcraft:selfOutOfRange=Coordinates of dialling Stargate are out of range
+item.sgcraft:pdd.name=Personal Dialler Device
+sgcraft.gui.pdd.label.personalDialerDevice=Personal Dialler Device
+sgcraft.gui.pdd.label.dialing=Dialling...
